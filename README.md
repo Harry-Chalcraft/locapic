@@ -15,17 +15,17 @@ It is a simple app but fun to work on!
 * Home screen:
 
 
-![locapic1](https://i.ibb.co/f8st6Ny/Screenshot-20190613-120152-Expo.jpg)
+![locapic1](https://i.ibb.co/ZSGm48X/locapic-home.jpg)
 
 * Maps screen:
 
 
-![locapic2](https://i.ibb.co/wKWPwfg/locapic-chat.jpg)
+![locapic2](https://i.ibb.co/jfPnRLr/locapic-maps.jpg)
 
 * Chat screen:
 
 
-![locapic3](https://i.ibb.co/N9sXL1L/Screenshot-20190613-120116-Expo.jpg)
+![locapic3](https://i.ibb.co/jfPnRLr/locapic-maps.jpg)
 
 ## Developed With
 
