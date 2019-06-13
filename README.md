@@ -32,6 +32,7 @@ It is a simple app but fun to work on!
 * [Node.js](https://nodejs.org/en/) - Javascript runtime
 * [Express.js](https://expressjs.com/fr/) - a web application infrastructure for Node.js
 * [React Native](https://facebook.github.io/react-native/) - via Expo.io
+* [React Redux](https://github.com/reduxjs/react-redux) - Redux is a predictable state container for JavaScript apps.
 * [React-native-maps](https://github.com/react-native-community/react-native-maps) - A module that enable mapview for Android or iOS
 * [Socket.io](https://socket.io/) - A JS framework that enables real-time, bidirectional and event-based communication.
 * [Facebook Authentication](https://developers.facebook.com/) - To implement login via user's facebook
