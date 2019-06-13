@@ -4,7 +4,7 @@ A mobile app that geolocates you and allows you to chat with your friends
 
 This project was part of my training to learn about react native.
 
-This is a mobile app that uses facebook authentication to login ([documentation])(https://developers.facebook.com/).
+This is a mobile app that uses facebook authentication to login, here is the [documentation](https://developers.facebook.com/).
 It has two pages one page designed to geolocate you using google maps. This is a good exercise to familiarize yourself with the google maps tools. It is set on the Paris coordinates, but once it has geolcated you it will display a marker on yout position with the message "Hello, I am here!".
 
 The second page is a chat to send live messages. It uses websockets via [socket.io](https://socket.io/). What was interesting here is that we use the facebook information (name and profile pic) collected during the login and put away in the store via redux, to display the messages.
