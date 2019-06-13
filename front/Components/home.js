@@ -11,7 +11,7 @@ class Home extends React.Component {
 
     var result = await AuthSession.startAsync({
       authUrl:
-        'https://fast-shore-29443.herokuapp.com/auth/facebook'
+        //Your server adress+/auth/facebook
     });
     if(result.type=='success'){
      this.props.signin(result.params);

@@ -22,7 +22,7 @@ class PageB extends React.Component {
   }
 
   componentDidMount(){
-    this.socket = socketIOClient("https://fast-shore-29443.herokuapp.com");
+    this.socket = socketIOClient(//Your server adress);
     this.socket.on('sendMessage', (message)=> {
       var messageListCopy = [...this.state.messageList];
       messageListCopy.push(message);

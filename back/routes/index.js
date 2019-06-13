@@ -18,7 +18,7 @@ router.get('/auth/facebook/callback',
   passport.authenticate('facebook', { session: false }),
 
   function(req, res) {
-    res.redirect("https://auth.expo.io/@hari-seldon182/front"
+    res.redirect(//your expo frontend adress
       +"?userId="+req.user.id
       +"&firstName="+req.user.first_name
       +"&lastName="+req.user.last_name
