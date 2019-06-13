@@ -20,7 +20,7 @@ It is a simple app but fun to work on!
 * Maps screen:
 
 
-![locapic2](https://i.ibb.co/jVJKt75/Screenshot-20190613-120141-Expo.jpg)
+![locapic2](https://i.ibb.co/wKWPwfg/locapic-chat.jpg)
 
 * Chat screen:
 
