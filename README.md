@@ -25,7 +25,7 @@ It is a simple app but fun to work on!
 * Chat screen:
 
 
-![locapic3](https://i.ibb.co/jfPnRLr/locapic-maps.jpg)
+![locapic3](https://i.ibb.co/wKWPwfg/locapic-chat.jpg)
 
 ## Developed With
 
