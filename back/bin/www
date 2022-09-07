@@ -24,9 +24,7 @@ var server = http.createServer(app);
 var io = require('socket.io')(server);
 
 io.on('connection', function(socket){
-  console.log('a user connected');
   socket.on('sendMessage', function(message) {
-   console.log(message);
    socket.emit("sendMessage", message)
  });
 });
@@ -75,11 +73,9 @@ function onError(error) {
   // handle specific listen errors with friendly messages
   switch (error.code) {
     case 'EACCES':
-      console.error(bind + ' requires elevated privileges');
       process.exit(1);
       break;
     case 'EADDRINUSE':
-      console.error(bind + ' is already in use');
       process.exit(1);
       break;
     default:
